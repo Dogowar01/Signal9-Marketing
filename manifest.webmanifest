@@ -1,0 +1,22 @@
+{
+  "name": "Signal9 Social Studio",
+  "short_name": "Signal9 Studio",
+  "description": "Personal marketing command centre for Signal9 Studios.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#171715",
+  "theme_color": "#171715",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
